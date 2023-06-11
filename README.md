@@ -8,7 +8,7 @@ This repository contains various module of **System engineering** and  **Devops*
 |                                        |<li>How to navigate file system</li>|
 |                                        |<li>Manipulate files</li>|
 |                                        |<li>How to use options and arguments with commands</li></ul>|
-| [0x01-Shell_Permisions](0x01-shell_permisions) |<li>Learn about file permissions</li>|
+| [0x01-Shell_Permisions](0x01-shell_permissions) |<li>Learn about file permissions</li>|
 |                                                |<li>Linux file permissions</li>|
 |                                                |<li>How to represnt each of the three sets of permissions (owner, group and other) as a single digit</li>|
 |                                                |<li>How to change permissions, owner and group of a file</li>|
