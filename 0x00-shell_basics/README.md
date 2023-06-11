@@ -11,7 +11,7 @@ In this project, I learnt about basic shell commands, shell navigation, manipula
 
 * **3. There is no place like home**
 
-  * [2-Bring Me Home](2-bring_me_home): Bash script that changes theworking directory to the user's home directory.
+  * [2-Bring Me Home](2-bring_me_home): Bash script that changes the working directory to the user's home directory.
 
 * **3. The long format**
 
@@ -51,11 +51,11 @@ In this project, I learnt about basic shell commands, shell navigation, manipula
 
 * **12. File type**
 
-  * [12-File Type](12-file_type): Bash script that prints the type of the file named iamafile.
+  * [12-File Type](12-file_type): Bash script that prints the type of the file named `iamafile`.
 
 * **13. We are symbols, and inhabit symbols**
 
-  * [13-Symbolic Link](13-symbolic_link): Bash script that create a symbolic link to /bin/ls, named __ls__.
+  * [13-Symbolic Link](13-symbolic_link): Bash script that create a symbolic link to`/bin/ls`, named  `__ls__`.
 
 * **14. Copy HTML files**
 
@@ -75,7 +75,7 @@ In this project, I learnt about basic shell commands, shell navigation, manipula
 
 * **18. Life is a series of commas, not periods**
 
-  * [10-back](10-back): Bash script that lists all the files and directories of the current directory, separated by commas (`,`).
+  * [103-commas](103-commas): Bash script that lists all the files and directories of the current directory, separated by commas (`,`).
 
   * Directory names end with a slash (`/`).
 
