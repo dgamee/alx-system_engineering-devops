@@ -9,7 +9,7 @@ In this project, I learnt about basic shell commands, shell navigation, manipula
 
   * [1-List it](1-listit): Bash script that displays the contents list of your current directory.
 
-* **3. There is no place like home**
+* **2. There is no place like home**
 
   * [2-Bring Me Home](2-bring_me_home): Bash script that changes the working directory to the user's home directory.
 
