@@ -1,10 +1,13 @@
-# ALX System Engineering DevOps
-This repository contains various concept of system engineering devops
+# ALX System Engineering DevOps 
+This repository contains various module of **System engineering** and  **Devops**, carried out during my **Full Stack Software Engineering studies at **[ALX](https://www.alxafrica.com)**
 
 ## Table of Contents
-[Shell Basics](0x00-shell_basics)
-
-[Shell Permisions](0x01-shell_permisions)
+| Project name | Description|
+| ------------ | -----------|
+| [Shell Basics](0x00-shell_basics) | - Learn about basic commands 
+- file system navigation 
+- file manipulation in **Shell**|
+| [Shell Permisions](0x01-shell_permisions) | Learn about file permissions, 
 
 [Shell Redirections and Filters](0x02-shell_redirections)
 
