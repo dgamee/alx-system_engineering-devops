@@ -15,8 +15,8 @@ This repository contains various module of **System engineering** and  **Devops*
 |                                                           |<li>How to run a command with root privileges</li>|
 |                                                           |<li>How to create a user, group</li>|
 |                                                           |<li>Print real and effective user and group IDs</li></ul>|
-| [Shell Redirections and Filters](0x02-shell_redirections) |<ul><li>How to redirect standard output to a file</li>|
-|                                                           |<li>Get standard input from a file instead of the keyboard</li>|
-|                                                           |<li>Send the output from one program to the input of another program</li>|
-|                                                           |<li>Combine commands and filters with redirections</li>|
+| [Shell Redirections and Filters](0x02-shell_redirections)    |<li>How to redirect standard output to a file</li>|
+|                                                              |<li>Get standard input from a file instead of the keyboard</li>|
+|                                                              |<li>Send the output from one program to the input of another program</li>|
+|                                                              |<li>Combine commands and filters with redirections</li>|
 |                                                           |<li>Concatenates files and print on the standard output</li>|
