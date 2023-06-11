@@ -4,7 +4,7 @@ This repository contains various module of **System engineering** and  **Devops*
 ## Table of Contents
 | Project name | Description|
 | ------------ | -----------|
-| [Shell Basics](0x00-shell_basics) | - Learn about basic commands 
+| [Shell Basics](0x00-shell_basics) | * Learn about basic commands 
 - file system navigation 
 - file manipulation in **Shell**|
 | [Shell Permisions](0x01-shell_permisions) | Learn about file permissions, 
