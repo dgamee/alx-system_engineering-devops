@@ -2,9 +2,11 @@
 This repository contains various concept of system engineering devops
 
 ## Table of Contents
-[Shell Basics](shell_basics)
-[Shell Permisions](shell_permisions)
-[Shell Redirections and Filters](shell_redirections)
+[Shell Basics](0x00-shell_basics)
+
+[Shell Permisions](0x01-shell_permisions)
+
+[Shell Redirections and Filters](0x02-shell_redirections)
 
 ## Shell Basics
 - How to navigate file system
