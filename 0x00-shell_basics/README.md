@@ -47,7 +47,7 @@ In this project, I learnt about basic shell commands, shell navigation, manipula
 
 * **11. File type**
 
-  * [11-Lists](11-lists): Bash script that that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the `/boot` directory (in this order), in long format.
+  * [11-Lists](11-lists): Bash script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the `/boot` directory (in this order), in long format.
 
 * **12. File type**
 
